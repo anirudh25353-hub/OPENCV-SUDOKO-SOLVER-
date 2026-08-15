@@ -132,4 +132,5 @@ def stackImages(imgArray,scale):
         hor= np.hstack(imgArray)
         hor_con= np.concatenate(imgArray)
         ver = hor
-    return ver
+    return vr 
+
